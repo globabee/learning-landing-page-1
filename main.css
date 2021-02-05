@@ -17,7 +17,7 @@ ul {
 }
 	ul {
 		list-style: none;
-}
+	}
 	li {
 		display: inline;
 	}
@@ -43,10 +43,10 @@ ul {
 		font-size: 30px;
 		width: 50px;
 		text-align: center;
-	  }
-	  .fab:hover {
-		opacity: 0.7;
-	  }
+	}
+	  	.fab:hover {
+			opacity: 0.7;
+	  	}
 	
 
 body {
